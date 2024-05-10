@@ -1,13 +1,13 @@
 .cabeçalho{
-background-color: #383D98;
-color: purple;
+background-color: #03f8c3;
+color: rgb(0, 0, 0);
   display: flex;
   justify-content:space-arond;
   padding: 24px 0;
 } 
 
 .cabeçalho.imagem{
-  width:20%;
+  width:10%;
 }
 
 .cabeçalho-lista-item{
@@ -21,10 +21,30 @@ color: purple;
   margin: 0;
   padding: 0;
 }
+ 
+
+.escola{
+  background-image: linear-gradient(#383D58,#00c0eb);
+color: white;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+.escola-conteudo{
+  width: 40%;
+  }
+
+ 
+ 
+.escola-titulo {
+  padding: 24px 0;
+  }
 
 
-
-
+.img{
+  width: 25%;
+}
 
 
 
